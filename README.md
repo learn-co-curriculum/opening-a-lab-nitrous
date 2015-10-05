@@ -55,12 +55,11 @@ Next, in the console navigate to the parent directory where you would like to pl
 
 Note: You should replace the `<paste the clone URL here>` including the `<` and `>` symbols in the snippet above with your actual clone URL by pressing command+v on mac or ctrl+v on windows. Example: `git clone git@github.com:faiyamTestFS16/first-lab-ruby-learn-cli-nitrous-q-000.git`
 
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2b.png" alt="Ironboard Labs Step 2b">
-[REPLACE WITH "git clone example nitrous"]
+<img width="100%" height="auto" src="https://curriculum-content.s3.amazonaws.com/learn-ver/git_clone_example_nitrous.png" alt="Ironboard Labs Step 2b">
 
 Don't forget to `cd` into the lab directory that was made when you cloned the lab. Once there, feel free to open up the lab's README. 
 
-![Work mode](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)[REPLACEMENT SCREENSHOT NEEDED]
+![Work Mode](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_full_view_at_lab_start.png)
 
 This setup, with the lab's directory open in both the console and the file browser, that's the state you want to be in when working on a lab on Learn. It means you're ready.
 
@@ -82,8 +81,7 @@ All lessons are stored on GitHub. You need to fork and clone every lesson you wa
 
 When you type `learn open` in your console, you'll see:
 
-![Learn Open](https://dl.dropboxusercontent.com/s/4cq930ubw2iwz40/2015-10-02%20at%204.09%20PM.png
-)[REPLACEMENT SCREENSHOT NEEDED]
+![Learn Open](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_learn_open_view.png)
 
 After typing `learn open`, the `learn` application did the following:
 
@@ -95,7 +93,7 @@ After typing `learn open`, the `learn` application did the following:
 
 Whenever you type `learn open` you'll end up 90% in the right setup to work on a lab, with the lab forked and cloned to your Nitrous environment and the console navigated to the lab's directory. All you need to do is navigate to the lab's directory in your file system.
 
-![Ready to Work](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)[REPLACEMENT SCREENSHOT NEEDED]
+![Ready to Work](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_full_view_at_lab_start.png)
 
 If you're ever lost and can't remember where your last lab was located or what you were working on, you can always type `learn open` and you'll end up in the right state.
 
