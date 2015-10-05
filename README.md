@@ -29,7 +29,7 @@ Every lab is initially stored in GitHub in an account called `learn-co-students`
 
 To get started, in Learn click "View on GitHub".
 
-![View on GitHub](https://dl.dropboxusercontent.com/s/4wmbuywfusq8l51/2015-09-30%20at%208.17%20PM.png)
+![view_on_github_emph_nitrous](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_view_on_github_emphasis.png)
 
 Next on Flatiron's Github page for the lab click the Fork button.
 
@@ -51,17 +51,18 @@ copy button next to the Clone URL to copy it to your clipboard.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2.jpg" alt="Ironboard Labs Step 2">
 
-Next, in Terminal navigate to the parent directory where you would like to place this lab. Then type:  `git clone <paste the clone URL here>`  
+Next, in the console navigate to the parent directory where you would like to place this lab. Then type:  `git clone <paste the clone URL here>`  
 
-Note: You should replace the `<paste the clone URL here>` including the `<` and `>` symbols in the snippet above with your actual clone URL by pressing command+v on mac or ctrl+v on windows. Example: `git clone git@github.com:jongrover/first-lab-000.git`
+Note: You should replace the `<paste the clone URL here>` including the `<` and `>` symbols in the snippet above with your actual clone URL by pressing command+v on mac or ctrl+v on windows. Example: `git clone git@github.com:faiyamTestFS16/first-lab-ruby-learn-cli-nitrous-q-000.git`
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2b.png" alt="Ironboard Labs Step 2b">
+[REPLACE WITH "git clone example nitrous"]
 
-Don't forget to `cd` into the lab directory that was made when you cloned the lab. Once in the directory, open the directory with your favorite text editor. Try `subl .` to open in Sublime or `atom .` to open in Atom.
+Don't forget to `cd` into the lab directory that was made when you cloned the lab. Once there, feel free to open up the lab's README. 
 
-![Work mode](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)
+![Work mode](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)[REPLACEMENT SCREENSHOT NEEDED]
 
-This setup, a terminal in the lab's directory and the lab directory open in an editor like Sublime or Atom, that's the state you want to be in when working on a lab on Learn. It means you're ready.
+This setup, with the lab's directory open in both the console and the file browser, that's the state you want to be in when working on a lab on Learn. It means you're ready.
 
 ## Opening a Lab with Learn CLI
 
@@ -79,36 +80,36 @@ This is important and understanding how to use `learn` is crucial.
 
 All lessons are stored on GitHub. You need to fork and clone every lesson you want to work on. But instead of doing that through GitHub Fork and `git clone`, you can automated all these steps by using `learn open`.
 
-When you type `learn open` in your terminal, you'll see:
+When you type `learn open` in your console, you'll see:
 
 ![Learn Open](https://dl.dropboxusercontent.com/s/4cq930ubw2iwz40/2015-10-02%20at%204.09%20PM.png
-)
+)[REPLACEMENT SCREENSHOT NEEDED]
 
-Remember, my Terminal prompt is `// ♥`, yours might be different, generally, `$`. After typing `learn open`, the `learn` application did the following:
+After typing `learn open`, the `learn` application did the following:
 
-1. Checked what your current lesson on Learn.
+1. Checked what your current lesson is on Learn.
 2. Forked that lesson on GitHub (notice the Fork light turned green on the right in Learn).
-3. Cloned your fork lesson locally, generally into a directory `~/Development/code/` (which is your home directory, the `Development` folder, and then a folder `code`).
+3. Cloned your fork lesson locally, generally into a directory `~/nitrous/code/` (which is your home directory, the `Development` folder, and then a folder `code`).
 4. Prepared the lesson bundle, which isn't something you need to worry about at all yet, but it did it for you just in case.
 5. `cd` changed directory into the cloned lesson's directory.
-6. Opened your favorite text editor, probably Sublime Text.
 
-If you type `learn open` you'll always end up in the right setup to work on a lab, terminal navigated into the lab's directory and and the lab's directory open in a text editor.
+Whenever you type `learn open` you'll end up 90% in the right setup to work on a lab, with the lab forked and cloned to your Nitrous environment and the console navigated to the lab's directory. All you need to do is navigate to the lab's directory in your file system.
 
-![Ready to Work](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)
+![Ready to Work](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)[REPLACEMENT SCREENSHOT NEEDED]
 
 If you're ever lost and can't remember where your last lab was located or what you were working on, you can always type `learn open` and you'll end up in the right state.
 
 You can also trigger `learn open` directly from the Learn.co web application by clicking "Open".
 
-![Learn Open](https://dl.dropboxusercontent.com/s/6hmrbrtcf0gssev/2015-09-30%20at%207.11%20PM.png)
+![Learn Open](https://dl.dropboxusercontent.com/s/6hmrbrtcf0gssev/2015-09-30%20at%207.11%20PM.png)[REPLACEMENT SCREENSHOT NEEDED]
 
-That will automatically open your terminal and execute `learn open`.
+That will automatically open your Nitrous container and execute `learn open`.
 
 ## Conclusion
 
-The `learn` CLI workflow is a way easier, but just as professional and real so don't feel bad about using `learn` and never using `git`.
+The `learn` CLI workflow is way easier, but just as professional and real so don't feel bad about using `learn` and never using `git`.
 
 However, sometimes in a lesson on Learn, we'll tell you to Fork and Clone a lab to get started or say something like "Fork this repo". We might use language relating to Git and GitHub to communicate to you that a lesson is a lab and you need to solve it by writing code and submitting it.
 
-**Every single time you see a reference to forking, cloning, or GitHub to get started on a lab, you can just use `learn open` and the Learn CLI.** The `learn` CLI is exactly equivalent to the `git` workflow it's just automated. So understand that equivalence, GitHub Fork and `git clone` are the same as `learn open` which you're about to learn.
+**Every single time you see a reference to forking, cloning, or GitHub to get started on a lab, you can just use `learn open` and the Learn CLI.** The `learn` CLI is exactly equivalent to the `git` workflow. It's just automated, so understand that equivalence. GitHub Fork and `git clone` are the same as `learn open`.
+
