@@ -99,7 +99,7 @@ If you're ever lost and can't remember where your last lab was located or what y
 
 You can also trigger `learn open` directly from the Learn.co web application by clicking "Open".
 
-![Learn Open](https://dl.dropboxusercontent.com/s/6hmrbrtcf0gssev/2015-09-30%20at%207.11%20PM.png)[REPLACEMENT SCREENSHOT NEEDED]
+![Nitrous Open](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_highlight.png)
 
 That will automatically open your Nitrous container and execute `learn open`.
 
