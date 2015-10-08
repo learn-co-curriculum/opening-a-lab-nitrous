@@ -100,11 +100,11 @@ Whenever you type `learn open` you'll end up 90% in the right setup to work on a
 
 If you're ever lost and can't remember where your last lab was located or what you were working on, you can always type `learn open` and you'll end up in the right state.
 
-You can also trigger `learn open` directly from the Learn.co web application by clicking "Open".
+But the simplest (and highly recommended!) way to start work on any lab on Learn, is to simply click the "Open" button on menu bar at the top of an Lab on the Learn.co web app. 
 
 ![Nitrous Open](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_highlight.png)
 
-That will automatically open your Nitrous container and execute `learn open`.
+So that's all you need to remember: press the Open button to get started. Behind the scenes, that will automatically open your terminal and execute `learn open` (which itself is using git).
 
 ## Conclusion
 
@@ -112,4 +112,4 @@ The `learn` CLI workflow is way easier, but just as professional and real so don
 
 However, sometimes in a lesson on Learn, we'll tell you to Fork and Clone a lab to get started or say something like "Fork this repo". We might use language relating to Git and GitHub to communicate to you that a lesson is a lab and you need to solve it by writing code and submitting it.
 
-**Every single time you see a reference to forking, cloning, or GitHub to get started on a lab, you can just use `learn open` and the Learn CLI.** The `learn` CLI is exactly equivalent to the `git` workflow. It's just automated, so understand that equivalence. GitHub Fork and `git clone` are the same as `learn open`.
+**Every single time you see a reference to forking, cloning, or GitHub to get started on a lab, you can just use the Open button or `learn open` via the Learn CLI.** The `learn` CLI is exactly equivalent to the `git` workflow. It's just automated, so understand that equivalence. GitHub Fork and `git clone` are the same as `learn open`.
