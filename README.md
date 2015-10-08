@@ -7,7 +7,7 @@ The deep integration of Learn, Git, and GitHub means that you can actually use t
 There are two ways to open a lab on Learn.
 
 1. You can Fork and `git clone` it via Github and `git`.
-2. You can use `learn open` via the Learn CLI. **`learn open` and the Learn CLI is the preferred way to work.**
+2. You can use the Open button or `learn open` via the Learn CLI. **This is the preferred way to work.**
 
 **Note: This is an informational README. You just have to read and conceptualize these workflows. Don't try to execute these commands yet. You will have a chance to practice the entire workflow using `learn` very shortly.**
 
