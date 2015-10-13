@@ -78,7 +78,7 @@ This is important and understanding how to use `learn` is crucial.
 
 ### Step 1: Opening a Lesson with `learn open`
 
-All lessons are stored on GitHub. You need to fork and clone every lesson you want to work on. But instead of doing that through GitHub Fork and `git clone`, you can automated all these steps by using `learn open`.
+All lessons are stored on GitHub. You need to fork and clone every lesson you want to work on. But instead of doing that through GitHub Fork and `git clone`, you can automate all these steps by using `learn open`.
 
 When you're on a Lab on Learn.co and want to begin working on it, go to your Nitrous console and type `learn open`. You'll see:
 
