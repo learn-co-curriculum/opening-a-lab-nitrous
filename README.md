@@ -100,7 +100,7 @@ Whenever you type `learn open` you'll end up 90% in the right setup to work on a
 
 If you're ever lost and can't remember where your last lab was located or what you were working on, you can always type `learn open` and you'll end up in the right state.
 
-But the simplest (and highly recommended!) way to start work on any lab on Learn, is to simply click the "Open" button on menu bar at the top of an Lab on the Learn.co web app. 
+But the simplest (and highly recommended!) way to start work on any lab on Learn, is to simply click the "Open" button on menu bar at the top of a Lab on the Learn.co web app. 
 
 ![Nitrous Open](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_highlight.png)
 
