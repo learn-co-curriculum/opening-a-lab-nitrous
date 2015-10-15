@@ -2,7 +2,7 @@
 
 ## Opening a Lab
 
-The deep integration of Learn, Git, and GitHub means that you can actually use the native `git` command line application to work on Learn. `git` is complex so we're going to show how it works, but we're also going to show you how to use the simpler `learn` CLI to open a lab.
+The deep integration of Learn, Git, and GitHub means that you can actually use the native `git` command line application to work on Learn. `git` is complex so we're going to show how it works, but we're also going to show you how to use the simpler `learn` CLI (Command Line Interface) to open a lab.
 
 There are two ways to open a lab on Learn.
 
@@ -74,7 +74,7 @@ Let's walk through the steps you need to take to solve a lab on Learn using the 
 
 **The Learn CLI workflow is the preferred way to work on Learn.**
 
-This is important and understanding how to use `learn` is crucial.
+This is important and understanding how to use `learn` is crucial. A CLI, or Command Line Interface, is a program - like the Learn CLI - that interacts with your computer via your terminal. 
 
 ### Step 1: Opening a Lesson with `learn open`
 
