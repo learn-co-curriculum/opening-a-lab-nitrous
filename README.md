@@ -13,7 +13,7 @@ There are two ways to open a lab on Learn.
 
 ## Opening a Lab with Git CLI
 
- The `git` command line is something every developer uses hundreds of times a day, so while a bit technical, it's a good thing know.
+ The `git` command line is something every developer uses hundreds of times a day, so while a bit technical, it's a good thing to know.
 
 In this lesson, we'll show you the sequence of steps (or workflow) needed to use git to solve labs on Learn. Don't worry too much about understanding the details of each command. And there is a simpler workflow that you're going to learn about soon using the `learn` command line application that automates all of this, so really, don't worry if this seems overly complex or cumbersome. Be brave.
 
