@@ -52,7 +52,7 @@ When you're ready to clone a lab from GitHub, make sure you've first clicked on 
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2.jpg" alt="Ironboard Labs Step 2">
 
-Next, you'll navigate in the console navigate to the parent directory where you would like to place this lab. Then you will type:  `git clone <paste the clone URL here>`  
+Next, you'll navigate in the console to the parent directory where you would like to place this lab. Then you will type:  `git clone <paste the clone URL here>`  
 
 Note: You should replace the `<paste the clone URL here>` including the `<` and `>` symbols in the snippet above with your actual clone URL by pressing command+v on mac or ctrl+v on windows. Example: `git clone git@github.com:faiyamTestFS16/first-lab-ruby-learn-cli-nitrous-q-000.git`
 
