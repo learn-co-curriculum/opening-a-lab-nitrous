@@ -114,4 +114,4 @@ However, sometimes in a lesson on Learn, we'll tell you to Fork and Clone a lab 
 
 **Every single time you see a reference to forking, cloning, or GitHub to get started on a lab, you can just use the Open button or `learn open` via the Learn CLI.** The `learn` CLI is exactly equivalent to the `git` workflow. It's just automated, so understand that equivalence. GitHub Fork and `git clone` are the same as `learn open`.
 
-<a href='https://learn.co/lessons/opening-a-lab-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/opening-a-lab-nitrous' title='Opening A Lab'>Opening A Lab</a> on Learn.co and start learning to code for free.</p>
